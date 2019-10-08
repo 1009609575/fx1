@@ -1,0 +1,2 @@
+public class dsadas {
+}
